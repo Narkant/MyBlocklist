@@ -1,0 +1,15 @@
+! Title: Custom Blocklist for LGE Domains
+! Description: Blocklist for LGE-related domains
+! Version: 1.0.0
+! Homepage: N/A
+! Last modified: 2025-05-04
+!
+! Compiled by ChatGPT
+!
+
+||snu.lge.com^
+||su.lge.com^
+||su-ssl.lge.com^
+||snu-dev.lge.com^
+||su-dev.lge.com^
+||nsu.lge.com^
