@@ -1,15 +1,26 @@
 ! Title: Custom Blocklist for LGE Domains
-! Description: Blocklist for LGE-related domains
-! Version: 1.0.0
-! Homepage: N/A
-! Last modified: 2025-05-04
-!
-! Compiled by ChatGPT
+! Description: Blocklist for LGE-related domains and Channel 4 tracking
+! Version: 1.0.1
+! Last modified: 2026-04-27
 !
 
+! --- LGE Domains ---
 ||snu.lge.com^
 ||su.lge.com^
 ||su-ssl.lge.com^
 ||snu-dev.lge.com^
 ||su-dev.lge.com^
 ||nsu.lge.com^
+
+! --- Channel 4 Domains ---
+||ads.channel4.com^
+||cdn.http.anno.channel4.com^
+||cdn.ss.anno.channel4.com^
+||channel4.com.112.2o7.net^
+||channel4.com.sc.omtrdc.net^
+||channel4.com.ssl.sc.omtrdc.net^
+||ic.channel4.com^
+||monitor.channel4.com^
+||sexperienceuk.channel4.com^
+||webstat.channel4.com^
+||webstats.channel4.com^
